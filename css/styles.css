@@ -1,0 +1,25 @@
+/**
+    Project: Kinaxis Dynamic Graph
+    Author: N'chaka Benjamin
+    Site: http://njbenjamin.com
+    Date: Nov-01-2018
+*/            
+*, html{
+    border: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+h1{
+    text-align: center;
+    margin-top: 1em;
+}
+h2{
+    text-align: center;
+}
+#graph{
+    height: 10em;
+}
